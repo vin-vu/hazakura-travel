@@ -1,7 +1,8 @@
 .card {
   display: flex;
-  width: 35em;
+  width: 37em;
   height: 20em;
+  margin-bottom: 2%;
 }
 
 .card-text-container {

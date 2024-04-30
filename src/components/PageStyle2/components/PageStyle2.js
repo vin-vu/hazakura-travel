@@ -5,6 +5,7 @@ import Card from "./Card";
 import Kinkakuji from "../../../images/kinkakuji.jpg";
 import Fushimi from "../../../images/fushimi-inari-shrine.jpg";
 import Kiyomizu_dera_gate from "../../../images/kiyomizu-dera-gate.jpg";
+import Arashiyama from "../../../images/arashiyama.jpg";
 
 function PageStyle2() {
   return (
@@ -24,6 +25,7 @@ function PageStyle2() {
         <Card img={Kinkakuji} alt="Kinkakuji" title="Kinkakuji" info="A Zen Temple in Northern Tokyo whose top 2 floors are completely covered in golden leaf." />
         <Card img={Fushimi} alt="Fushimi" title="Fushimi Inari Shrine" info="The most important of several thousands of shrines dedicated to Inari, the Shinto god of rice." />
         <Card img={Kiyomizu_dera_gate} alt="Kiyomizu_dera_gate" title="Kiyomizu-dera" info="One of the most celebrated temples in Japan. Was added to the list of UNESECO world heritage sies." />
+        <Card img={Arashiyama} alt="Arashiyama" title="Arashiyama (Bamboo Groves)" info="The walking paths that cut through the bamboo groves make for a nice walk or bicycle ride." />
       </div>
     </div>
   );
