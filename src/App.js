@@ -4,6 +4,7 @@ import Kyoto from './components/Kyoto/Kyoto';
 import PageStyle2 from './components/PageStyle2/components/PageStyle2';
 
 function App() {
+  // empty comment for test purposes
   return (
     <div className="app">
       <Homepage />
